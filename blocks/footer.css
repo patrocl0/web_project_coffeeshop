@@ -5,7 +5,6 @@
   color: white;
   box-sizing: border-box;
   overflow: hidden;
-  flex-direction: column;
 }
 
 .footer__content {
@@ -58,6 +57,10 @@
   font-size: 16px;
   line-height: 20px;
   color: #ffffff;
+}
+
+.footer__social-link:hover {
+  color: #c1c1c1;
 }
 
 .footer__social-icon {
